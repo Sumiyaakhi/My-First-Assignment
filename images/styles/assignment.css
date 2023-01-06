@@ -1,0 +1,129 @@
+/* Style for header*/
+header{
+    background-image: url(../banner/banner3.png);
+    width: 1600px;
+height: 808px;
+
+}
+.head-title{
+    font-weight: 700;
+font-size: 65px;
+text-align: right;
+color: #FFFFFF;
+padding: 143px 200px 300px 746px;
+
+}
+.head-desciption{
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    text-align: right;
+}
+.btn-primary{
+    font-weight: 600;
+font-size: 20px;
+text-align: right;
+color: #005FAC;
+padding: 21px 25px 20px 26px;
+border-radius: 5px;
+border: 0;
+}
+/* middle content*/
+.person{
+    margin-top: 80px;
+    margin-left: 100px;
+}
+.prev-years-description{
+
+}
+ ul {
+    list-style: none;
+  }
+  
+  ul li:before {
+    content: '✓';
+    color: lightgreen;
+    padding: 8px;
+    margin: 0;
+  } 
+  .prev-years{
+    display: flex;
+    padding: ;
+  }
+  .prev-title{
+ margin-top:300px;
+ padding-left:60px;
+  }
+  /*my plan style*/
+  .planning{
+    text-align: center;
+    font-weight: 700;
+font-size: 40px;
+  }
+  .planning-things{
+    text-align: center;
+    display: flex;
+   
+  }
+  .item{
+    margin: 0 100px;
+
+  }
+  .grade-img{
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%), url(../watch.png);
+    color: #FFFFFF;
+    background-repeat: no-repeat;
+    height: 300px;
+    left: 230px;
+    border-radius: 8px;
+    margin:50px 230px 50px 230px;
+    
+  }
+  .grade-title{
+    padding: 60px 620px 150px 64px;
+    font-weight: 700;
+font-size: 40px;
+  }
+  /*footer style*/
+  footer{
+    background-color: black;
+    height: 577px;
+    color: #F8F8F8;
+  }
+  .footer-title{
+    font-weight: 700;
+    font-size: 45px;
+   
+    
+  }
+  h3{
+    font-weight: 600;
+font-size: 25px;
+  }
+  #email{
+    background-color: black;
+    border-radius: 5px;
+    border: 1px;
+    display: flex;
+    margin-bottom: 15px;
+    margin-top:30px ;
+    width: 325px;
+height: 64px;
+
+  }
+  .btn-subscribe{
+    padding: 21px 25px 20px 26px;
+    border-radius: 5px;
+    border: 2px;
+    background-color:#005FAC;
+    color: #F8F8F8;
+  }
+  .footer{
+display: flex;
+  }
+  .future{
+    margin: 140px 100px 130px 230px;
+  }
+  .subscribe{
+    margin: 130px 230px 250px 100px ;
+  }
