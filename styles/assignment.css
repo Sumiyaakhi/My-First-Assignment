@@ -48,7 +48,6 @@ border: 0;
   } 
   .prev-years{
     display: flex;
-    padding: ;
   }
   .prev-title{
  margin-top:300px;
@@ -56,7 +55,7 @@ border: 0;
 font-size: 40px;
   }
   .previous{
-    padding: 20px 300px ;
+    padding: 20px 10px 20px 200px  ;
   }
   /*my plan style*/
   .planning{
