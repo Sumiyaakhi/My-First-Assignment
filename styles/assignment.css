@@ -1,6 +1,6 @@
 /* Style for header*/
 header{
-    background-image: url(../banner/banner3.png);
+    background-image: url(../images/banner/banner3.png);
     width: 1600px;
 height: 808px;
 
@@ -28,7 +28,7 @@ padding: 21px 25px 20px 26px;
 border-radius: 5px;
 border: 0;
 }
-/* middle content*/
+/* style for middle content*/
 .person{
     margin-top: 80px;
     margin-left: 100px;
@@ -52,7 +52,11 @@ border: 0;
   }
   .prev-title{
  margin-top:300px;
- padding-left:60px;
+ font-weight: 700;
+font-size: 40px;
+  }
+  .previous{
+    padding: 20px 300px ;
   }
   /*my plan style*/
   .planning{
@@ -66,11 +70,11 @@ font-size: 40px;
    
   }
   .item{
-    margin: 0 100px;
+    margin: 20px 100px;
 
   }
   .grade-img{
-    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%), url(../watch.png);
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%), url(../images/watch.png);
     color: #FFFFFF;
     background-repeat: no-repeat;
     height: 300px;
@@ -80,15 +84,40 @@ font-size: 40px;
     
   }
   .grade-title{
-    padding: 60px 620px 150px 64px;
+    padding: 60px 620px 0px 64px;
     font-weight: 700;
-font-size: 40px;
+    font-size: 40px;
+  }
+  .btn-secondary{
+    font-weight: 600;
+    font-size: 20px;
+    text-align: right;
+    color: #005FAC;
+    padding: 21px 25px 20px 26px;
+    border-radius: 5px;
+    border: 0;
+    margin-left: 60px;
+  }
+  /*self section style*/
+  .self{
+    border-radius:50%;
+  }
+  .self-section{
+    text-align: center;
+  }
+  #message{
+    background-color: black;
+    color: white;
+    padding: 10px 50px;
+    border-radius: 5px;
+    border: 0;
   }
   /*footer style*/
   footer{
     background-color: black;
     height: 577px;
     color: #F8F8F8;
+    margin-top: 50px;
   }
   .footer-title{
     font-weight: 700;
